@@ -1,0 +1,38 @@
+div{
+    border: 5px solid black;
+    display: inline-block;
+    width: 10rem;
+}
+.color1{
+    background-color: rgb(19, 19, 110);
+}
+.color2{
+    background-color: rgb(8, 73, 158);
+}
+.color3{
+    background-color: rgb(28, 102, 238);
+}
+.color4{
+    background-color: rgb(6, 194, 194);
+}
+.color5{
+    background-color: aquamarine;
+}
+.color6{ 
+    background-color: blanchedalmond;
+}
+.color7{
+    background-color: burlywood;
+}
+.color8{
+    background-color: rgb(224, 224, 82);
+}
+.color9{
+    background-color: orange;
+}
+.color10{
+    background-color: chocolate;
+}
+.color11{
+    background-color: red;
+}

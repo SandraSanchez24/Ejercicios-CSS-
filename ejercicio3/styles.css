@@ -1,0 +1,27 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+.p1 {
+    color: gray;
+    font-family: 'Courier New', Courier, monospace
+}
+.p1 a {
+    color: rgb(18, 156, 156);
+    text-decoration: none;
+}
+.d1 {
+    font-family: 'Courier New', Courier, monospace
+
+}
+.italica {
+    font-style: italic;
+}
+div .negrita {
+    font-weight: bold;
+}
+.p4 {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

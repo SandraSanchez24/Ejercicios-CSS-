@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 1.9rem;
+    text-indent: 3rem;
+}
+h2{
+    font-size: 1.5rem;
+    text-indent: 3rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+div{
+    margin: 3rem;
+    margin-bottom: 4rem;
+}
+.clase1{
+    color: gray;
+    font-size: 0.8rem;
+}
+.clase2{
+    color: green;
+}
+.clase3{
+    color: red;
+}

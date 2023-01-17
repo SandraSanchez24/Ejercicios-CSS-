@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(26, 4, 4);
+    color: aquamarine;
+}
+h1 {
+    font-size: 120px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+p {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.letra0 {
+    color: crimson;
+}
+.letra1 {
+    color: red;
+}
+.letra2 {
+    color: blueviolet;
+}
+.letra3 {
+    color: palevioletred;
+}
